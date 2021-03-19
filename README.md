@@ -4,3 +4,4 @@
 
 [CodePipeline](codepipeline/README.md) - Simplifies creating a complex build pipeline.  Can be modified to suit team naming conventions, but starts with sensible defaults. 
 
+Copyright © 2021 Intelematics
